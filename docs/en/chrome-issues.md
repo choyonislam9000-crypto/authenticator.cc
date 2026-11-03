@@ -2,7 +2,7 @@
 title: Chrome Issues
 stub: chrome-issues
 lang: en
-ver: 1
+ver: 2
 ---
 
 {% include warning.html class="danger" message="<h4>REINSTALLING AUTHENTICATOR WILL CLEAR YOUR DATA. NEVER REINSTALL AUTHENTICATOR TO FIX ANY ISSUES</h4>" %}
